@@ -1,15 +1,15 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              lbc_cn
+email:              365324702@qq.com
+description:        Software Engineer of Testing
+author:             lbc
 baseurl:            "/"
 url:                "https://lbc-cn.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    BlackrockDigital
-facebook_username:  StartBootstrap
-linkedin_username:
+twitter_username:   lbc_cn
+github_username:    lbc-cn
+facebook_username:  lbc_cn
+linkedin_username:  lbc_cn
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
