@@ -1,0 +1,1 @@
+Predicate<Student> predicate, Consumer<Student> consumer

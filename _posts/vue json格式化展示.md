@@ -1,0 +1,1 @@
+https://github.com/chenfengjw163/vue-json-viewer/blob/master/README_CN.md

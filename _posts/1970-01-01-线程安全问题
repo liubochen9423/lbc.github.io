@@ -1,0 +1,8 @@
+Thread Runnable Callable Futrue
+synchronized
+ReeReentrantLock --》 condition
+锁的重入
+死锁
+上下文切换
+指令重拍 happenbefore
+
