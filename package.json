@@ -30,7 +30,7 @@
         "font-awesome": "4.7.0",
         "jquery": "3.4.1",
         "startbootstrap-clean-blog": "5.0.7",
-        "lodash": ">=4.17.13"
+        "lodash": ">=4.17.21"
     },
     "devDependencies": {
         "browser-sync": "2.26.7",
